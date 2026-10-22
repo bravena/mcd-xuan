@@ -22,7 +22,8 @@
 
 ### 1. 前置条件（必装）
 本机已配置麦当劳官方 MCP：`~/.workbuddy/mcp.json` 里 `mcpServers.mcd-mcp`，地址 `https://mcp.mcd.cn`，Bearer Token 鉴权。
-> Token 的获取方式以麦当劳大赛官方文档为准（**待核**，不编造）。
+
+麦当劳 MCP Server 开放平台官网：https://open.mcd.cn/mcp
 
 ### 2. 安装 Skill
 把 `SKILL.md` + `references/` 整个复制到技能目录：
